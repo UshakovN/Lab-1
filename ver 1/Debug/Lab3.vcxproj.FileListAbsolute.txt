@@ -1,0 +1,8 @@
+D:\Прога\Lab3\Debug\Lab3.exe
+D:\Прога\Lab3\Debug\Lab3.pdb
+D:\Прога\Lab3_v1\Debug\Lab3.exe
+D:\Прога\Lab3_v1\Debug\Lab3.pdb
+D:\Прога\Lab 1 (3 массива)\Lab3_v1\Debug\Lab3.exe
+D:\Прога\Lab 1 (3 массива)\Lab3_v1\Debug\Lab3.pdb
+D:\Прога\Lab 1 (три массива)\ver 1\Debug\Lab3.exe
+D:\Прога\Lab 1 (три массива)\ver 1\Debug\Lab3.pdb
